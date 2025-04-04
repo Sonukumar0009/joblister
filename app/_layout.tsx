@@ -6,7 +6,7 @@ import { Feather } from "@expo/vector-icons";
 import { SafeAreaProvider } from "react-native-safe-area-context";
 import * as NavigationBar from "expo-navigation-bar";
 import { StatusBar } from "expo-status-bar";
-
+//hi
 export default function Layout() {
   useEffect(() => {
     NavigationBar.setBackgroundColorAsync("#0A0F1F");
