@@ -25,7 +25,7 @@ export default function JobDetails() {
       <View style={styles.sectionContent}>{content}</View>
     </View>
   );
-
+//hi
   const renderImages = () => {
     if (!jobDetails.creatives || jobDetails.creatives.length === 0) return null;
 
